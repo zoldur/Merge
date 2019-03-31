@@ -1,5 +1,5 @@
 # Merge Coin
-Ubuntu package to install [Merge Coin]](https://www.projectmerge.org/). 
+Ubuntu package to install [Merge Coin](https://www.projectmerge.org/). 
 Intalled and tested on a Linux server running Ubuntu 16.04. Use it on your own risk.
 ***
 
